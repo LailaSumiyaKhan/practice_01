@@ -12,4 +12,4 @@ function fibonacci(n) {
    }
    console.log(series);
 }
-fibonacci(5);
+fibonacci(7);

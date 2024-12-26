@@ -5,8 +5,7 @@ function nestedLoop() {
       }
    }
 }
-// nestedLoop();
-//[2,4,8,20,5], 12
+
 function twoSum(arr, target) {
    for (let i = 0; i < arr.length; ++i) {
       for (let j = i + 1; j < arr.length; ++j) {
